@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxin_documentation=self.webpackChunkxin_documentation||[]).push([[2268],{2268:(a,e,n)=>{n.r(e),n.d(e,{DocSearchModal:()=>c.a1});var c=n(2634)}}]);
