@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxin_documentation=self.webpackChunkxin_documentation||[]).push([[2691],{1334:n=>{n.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"thinkphp"}')}}]);

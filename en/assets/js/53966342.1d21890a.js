@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxin_documentation=self.webpackChunkxin_documentation||[]).push([[1441],{5262:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"laravel"}')}}]);
